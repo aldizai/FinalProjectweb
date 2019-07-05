@@ -1,0 +1,40 @@
+Nama           :zai
+NIM            :025
+Jenis Kelamin  :Laki-Laki
+No.WA          :085
+Nama           :zia
+NIM            :052
+Jenis Kelamin  :Perempuan
+No.WA          :082341567
+Nama           :zia
+NIM            :052
+Jenis Kelamin  :Perempuan
+No.WA          :082341567
+Nama           :zia
+NIM            :052
+Jenis Kelamin  :Perempuan
+No.WA          :082341567
+Nama           :zia
+NIM            :052
+Jenis Kelamin  :Perempuan
+No.WA          :082341567
+Nama           :
+NIM            :
+Jenis Kelamin  :
+No.WA          :
+Nama           :
+NIM            :
+Jenis Kelamin  :
+No.WA          :
+Nama           :
+NIM            :
+Jenis Kelamin  :
+No.WA          :
+Nama           :zia
+NIM            :052
+Jenis Kelamin  :Perempuan
+No.WA          :082341567
+Nama           :
+NIM            :
+Jenis Kelamin  :
+No.WA          :

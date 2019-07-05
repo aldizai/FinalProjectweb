@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TUGAS AKHIR WEB</title>
+	<link rel="stylesheet" type="text/css" href="../css/aar.css">
+</head>
+<body>
+
+	<div class="zai">
+	<marquee><h2>SEMI FORM PENDAFTARAN SEDERHANA </h2></marquee>
+</div>
+	<div class="ppn">
+
+</div>
+	<div class="maverick">
+		<h2><center>Formulir pendaftaran Kepanitiaan Teknik Informatika</center></h2><br>
+		<p><center>Tak kenal maka tak sayang, Silahkan isi data diri sesuai diri anda saat ini </center></p><br>
+		<form action="aksi.php" method="POST" onsubmit="validation()">
+		<label><h3>Nama Lengkap</h3></label>
+		<input type="text" name="nam" id="nam" />
+		<label><h3>NIM</h3></label>
+		<input type="text" name="nim" id="nim" />
+		<label><h3>Jenis Kelamin</h3></label>
+		<input type="radio" name="jk" value="Laki-Laki" />Laki-Laki<br>
+		<input type="radio" name="jk" value="Perempuan" />Perempuan<br>
+		<label><h3>Divisi yang ingin diikuti (Max. 2)</h3></label>
+		<input type="checkbox" name="ivi" value="acara" />Sie Acara<br>
+		<input type="checkbox" name="ivi" value="konsumsi" />Sie Konsumsi<br>
+		<input type="checkbox" name="ivi" value="humas" />Sie Humas<br>
+		<input type="checkbox" name="ivi" value="perkab" />Sie Perkab<br>
+		<input type="checkbox" name="ivi" value="PDD" />Sie PDD<br>
+		<label><h3>No. WhatsApp</h3></label>
+		<input type="number" name="wa" id="wa" />
+		<label><h3>Alasan Memilih Divisi Terkait</h3></label>
+		<textarea name="al" id="al"></textarea><br>
+		<input type="submit" value="Daftar" onclick="pesan()">
+	</form>
+</div>
+<script type="text/javascript" src="../js/mav.js"></script>
+</body>
+</html>

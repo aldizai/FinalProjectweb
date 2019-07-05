@@ -1,0 +1,38 @@
+	.zai{
+		background-color: purple;
+		border: 1px solid black;
+		height: 150px;
+		font-family: harrington;
+	}
+
+	.ppn{
+		border: 1px solid black;
+		height: 1200px;
+		background-image: url('../data/ac4.jpg');
+		
+	}
+
+	.maverick{
+		border: 1px solid black;
+		height: 1200px;
+		width: 800px;
+		margin-left: 300px;
+		background-color: white;
+		margin-top: -1300px;
+		font-family: tahoma;
+	}
+
+	.maverick h3{
+		margin-left: 40px;
+		margin-top: 40px;
+	}
+
+	.maverick input{
+		margin-left: 40px;
+		margin-top: 20px;
+	}
+
+	.maverick textarea{
+		margin-left: 40px;
+		margin-top: 10px;
+	}
